@@ -1,0 +1,204 @@
+REGION,FACILITY ID,FACILITY NAME,pop_final,pop_final_source,pop_final_rwb_preferred,pop_final_rwb_preferred_source
+1,243820,Thousand Trails Russian River Park,NA,NA,NA,NA
+1,270618,Vintners Inn,NA,NA,NA,NA
+1,212776,Calpella CWD WWTP,309132,pop_cwns,309132,pop_cwns
+1,245775,Oceana Marin (North Marin CWD),363144,pop_cwns,363144,pop_cwns
+1,256057,SCWA Oceanic Properties Sea Ranch Central Plant,309132,pop_cwns,309132,pop_cwns
+1,236941,"Lewiston CSD WWTP, POTW",366930,pop_cwns,366930,pop_cwns
+3,213535,Cate School WWTP,34096,pop_cwns,34096,pop_cwns
+3,256483,Soledad WWTP,NA,NA,NA,NA
+3,252700,Ridgemark Estates WWTP,NA,NA,NA,NA
+3,247199,Pacific Dunes Ranch,NA,NA,NA,NA
+3,241305,Chualar WWTP,38102,pop_cwns,38102,pop_cwns
+3,227893,"Greenfield WWTP, City of",18967,pop_sso_csv,18967,pop_sso_csv
+3,245564,Oak Hills Development WWTP,NA,NA,NA,NA
+3,206651,Atascadero State Hospital,38250,pop_cwns,38250,pop_cwns
+3,210685,Buellton WWTP,49715,pop_cwns,49715,pop_cwns
+3,213029,Canada Woods Reclamation Facility,207450,pop_cwns,207450,pop_cwns
+3,237123,Lion's Gate Reserve,NA,NA,NA,NA
+3,236601,Las Palmas Ranch Reclamation Facility,NA,NA,NA,NA
+3,220836,Dunn School WWTP,NA,NA,NA,NA
+3,247731,Pasadera Reclamation Facility (Producer),NA,NA,NA,NA
+3,213294,Carmel Valley Ranch WWTP (Producer),207450,pop_cwns,207450,pop_cwns
+3,228104,Guadalupe WWTP,104,pop_cwns,104,pop_cwns
+3,847506,Monterey Vacation RV Park,NA,NA,NA,NA
+3,255678,City of Santa Maria WWTP,184660,pop_cwns,184660,pop_cwns
+3,237395,Los Alamos WWTP,NA,NA,NA,NA
+3,771776,The Inn at Mattei's Tavern,NA,NA,NA,NA
+3,255190,San Ardo WWTP,8460,pop_cwns,8460,pop_cwns
+4,217147,USC Marine Science Center,104,pop_cwns,104,pop_cwns
+4,268842,"Two Harbors STP, Catalina Island",NA,NA,NA,NA
+4,268023,Vista Pacifica at Broad Beach,NA,NA,NA,NA
+4,260412,Thomas Aquinas College,NA,NA,NA,NA
+4,260486,Jose Flores WWTP,1043,pop_cwns,1043,pop_cwns
+4,225897,"Fire Camp #8, Malibu",NA,NA,NA,NA
+4,267429,The Thacher School WWTP,1043,pop_cwns,1043,pop_cwns
+4,242163,Malibu Outrigger Condos,NA,NA,NA,NA
+4,242174,The Surfrider Malibu,NA,NA,NA,NA
+4,650554,Santa Paula WRF,104,pop_cwns,104,pop_cwns
+5,872487,City of Tulare WWTF,NA,NA,NA,NA
+5,273116,Gustine WWTF,1043,pop_cwns,1043,pop_cwns
+5,201071,Madera Cnty #27-Goldside Estates WWTF,414,pop_sso_csv,414,pop_sso_csv
+5,273128,Parlier WWTF,NA,NA,NA,NA
+5,273175,Laton WWTF,104,pop_cwns,104,pop_cwns
+5,273133,Sanger WWTF,NA,NA,NA,NA
+5,273125,McFarland WWTF,104,pop_cwns,104,pop_cwns
+5,273149,I-5 & Highway 58 WWTF,NA,NA,NA,NA
+5,273193,Terra Bella WWTF,NA,NA,NA,NA
+5,232096,Harris Ranch Inn and Restaurant WWTF,NA,NA,NA,NA
+5,230914,Huntington Pines Mutual Water Company,NA,NA,NA,NA
+5,214665,Taft WWTF,1043,pop_cwns,1043,pop_cwns
+5,273192,Strathmore  WWTF,104,pop_cwns,104,pop_cwns
+5,273121,Lindsay WWTF,104,pop_cwns,104,pop_cwns
+5,234146,Fresno Cnty Juvenile Justice WWTF,NA,NA,NA,NA
+5,273141,Hilmar CWD WWTF,104,pop_cwns,104,pop_cwns
+5,273130,Porterville WWTF,1043,pop_cwns,1043,pop_cwns
+5,273179,Lost Hills WWTF,104,pop_cwns,104,pop_cwns
+5,273123,Madera WWTF,NA,NA,NA,NA
+5,726883,Pixley WWTF,1043,pop_cwns,1043,pop_cwns
+5,273126,Mendota WWTF,104,pop_cwns,104,pop_cwns
+5,263072,Tehachapi Correctional Inst WWTF,NA,NA,NA,NA
+5,201069,Madera Cnty #22A-Oakhurst WWTF,2686,pop_sso_csv,2686,pop_sso_csv
+5,245554,Oak Creek MHP WWTF,NA,NA,NA,NA
+5,273184,Richgrove WWTF,1043,pop_cwns,1043,pop_cwns
+5,721549,Cascade MHP WWTF,NA,NA,NA,NA
+5,759028,SCICON WWTF,1043,pop_cwns,1043,pop_cwns
+5,222436,El Dorado MHP WWTF,NA,NA,NA,NA
+5,273104,Arvin WWTF,104,pop_cwns,104,pop_cwns
+5,273107,Coalinga WWTF,104,pop_cwns,104,pop_cwns
+5,257951,Riverbend Mobile Home Park,NA,NA,NA,NA
+5,273108,Corcoran WWTF,104,pop_cwns,104,pop_cwns
+5,273138,Visalia Water Reclamation Facility (WRF),3006,pop_sso_csv,3006,pop_sso_csv
+5,273187,SKF CSD WWTF,NA,NA,NA,NA
+5,273114,Firebaugh WWTF,1043,pop_cwns,1043,pop_cwns
+5,273136,Tehachapi WWTF,NA,NA,NA,NA
+5,273170,Franklin WWTF,NA,NA,NA,NA
+5,201068,Madera Cnty #2-Bass Lake WWTF,666,pop_cwns,666,pop_cwns
+5,253236,Sonora Estates Manufactured Housing Community,NA,NA,NA,NA
+5,273196,Wasco WWTF,NA,NA,NA,NA
+5,273163,Biola WWTF,NA,NA,NA,NA
+5,251805,Rawhide Mobile Home Park WWTF,104,pop_cwns,104,pop_cwns
+5,236857,Lemoore NAS WWTF,NA,NA,NA,NA
+5,273118,Hanford WWTF,NA,NA,NA,NA
+5,273190,Springville WWTF,NA,NA,NA,NA
+5,248717,Pleasant Valley State Prison WWTF,NA,NA,NA,NA
+5,215698,Corcoran State Prison WWTF,NA,NA,NA,NA
+5,273112,Exeter WWTF,104,pop_cwns,104,pop_cwns
+5,213592,CDC CCWF & VSP WWTF,NA,NA,NA,NA
+5,273106,Chowchilla WWTF,104,pop_cwns,104,pop_cwns
+5,214957,Coalinga State Hospital WWTF,1043,pop_cwns,1043,pop_cwns
+5,274509,Yosemite South Coarsegold Ranch,NA,NA,NA,NA
+5,234841,Kerman WWTF,NA,NA,NA,NA
+5,215677,North Fresno WWRF,17368,pop_cwns,17368,pop_cwns
+5,273174,Lamont WWTF,1043,pop_cwns,1043,pop_cwns
+5,273127,Orange Cove WWTF,NA,NA,NA,NA
+5,272565,Wildwood MHP,NA,NA,NA,NA
+5,227501,Golden Hills Mobile Home Park,NA,NA,NA,NA
+5,273131,Reedley WWTF,1043,pop_cwns,1043,pop_cwns
+5,206149,Arbuckle WWTP,NA,NA,NA,NA
+5,602499,Del Rio East HOA WWTP,104,pop_cwns,104,pop_cwns
+5,240655,Middletown STP (SD 2-2),104,pop_cwns,104,pop_cwns
+5,230282,Hidden Valley Lake WRF,1043,pop_cwns,1043,pop_cwns
+5,736188,Lake Cnty SD Kelseyville WWD No. 3 Kelseyville WWTF,NA,NA,NA,NA
+5,243845,Napa Berryessa WTF,6750,pop_cwns,6750,pop_cwns
+5,206732,Auburn Valley CSD WWTF,1043,pop_cwns,1043,pop_cwns
+5,214640,Ione WWTF,NA,NA,NA,NA
+5,257927,Southeast Regional WW System,NA,NA,NA,NA
+5,227242,Auburn Ridge Woods MHP,104,pop_cwns,104,pop_cwns
+5,239874,Maxwell PUD WWTF,NA,NA,NA,NA
+5,244785,NW Regional Waste Disp Fac,NA,NA,NA,NA
+5,254925,"Placer Cnty SA No 28, ZONE No.6, Sheridan WWTP",NA,NA,NA,NA
+6,253293,Rosamond WTF (Ponds),104,pop_cwns,104,pop_cwns
+6,253241,Rolling Green Terrace WTF,6895,pop_cwns,6895,pop_cwns
+6,272688,Willow Springs MHP,104,pop_cwns,104,pop_cwns
+7,791117,Yucca Valley Senior Housing,NA,NA,NA,NA
+7,634668,Turtle Rock 29 HOA,NA,NA,NA,NA
+7,814481,Smoke Tree Villas,NA,NA,NA,NA
+7,707420,Desert Knoll Inc.,NA,NA,NA,NA
+9,631390,"USMC Base, Camp Pendleton CS",NA,NA,NA,NA
+9,245555,"Oak Crest Mobile Estates, Inc",NA,NA,NA,NA
+9,638334,USMC Camp Pendleton Southern Regional Tertiary Treatment Plant,NA,NA,NA,NA
+9,262996,TCWD Robinson Ranch WRF,NA,NA,NA,NA
+1,220567,Dorris City STP,983054,pop_cwns,983054,pop_cwns
+1,229643,Happy Camp WWTP,0,pop_cwns,0,pop_cwns
+1,225072,Fort Jones City WWTP,590277,pop_cwns,590277,pop_cwns
+1,227962,Grenada Sanitary District STP,98730,pop_cwns,98730,pop_cwns
+1,248791,Point Arena Wastewater Treatment Plant,184660,pop_cwns,184660,pop_cwns
+1,266694,Tulelake City WWTP,NA,NA,NA,NA
+1,266694,Weaverville SD WWTP,NA,NA,NA,NA
+1,271942,Weed Shastina WWTP,137026,pop_cwns,137026,pop_cwns
+1,271945,Weed WWTP,38250,pop_cwns,38250,pop_cwns
+1,274538,Yreka City WWTP,38250,pop_cwns,38250,pop_cwns
+1,228109,Gualala WWTF,181194,pop_cwns,181194,pop_cwns
+1,226719,Garberville POTW,76729,pop_cwns,76729,pop_cwns
+1,230693,Hopland Public Utilities District,36124,pop_cwns,36124,pop_cwns
+1,240917,Miranda POTW,45723,pop_cwns,45723,pop_cwns
+1,272298,Westport CWD,45676,pop_cwns,45676,pop_cwns
+1,222998,Etna STP,740946,pop_cwns,740946,pop_cwns
+1,236258,Lake Shastina CSD STP,135000,pop_cwns,135000,pop_cwns
+1,256049,SCWA Geyserville CSD,38250,pop_cwns,38250,pop_cwns
+1,235102,Klamath CSD STP (Del Norte Community Development),331491,pop_cwns,331491,pop_cwns
+1,272009,Weott CSD,38250,pop_cwns,38250,pop_cwns
+2,256477,Auberge Du Soleil WWTP,NA,NA,NA,NA
+2,209987,Bolinas Community WWTP Pond System,38102,pop_cwns,38102,pop_cwns
+2,220804,Duffy's Myrtledale WW Ponds,49715,pop_cwns,49715,pop_cwns
+2,709408,Marshall Community WWTP,34096,pop_cwns,34096,pop_cwns
+2,241376,Moore's Resort WWTP Sewage Ponds,NA,NA,NA,NA
+2,258777,Stonehurst SD-6 WWTP,45723,pop_cwns,45723,pop_cwns
+3,206653,Atascadero WWTP,NA,NA,NA,NA
+3,209014,Bear Creek Estates WWF,49715,pop_cwns,49715,pop_cwns
+3,209225,Ben Lomond Conservation Camp,45723,pop_cwns,45723,pop_cwns
+3,209389,Betabel RV Park,NA,NA,NA,NA
+3,210707,Buena Vista Migrant Labor Camp WWTP,45723,pop_cwns,45723,pop_cwns
+3,213089,Canyon Crest,34096,pop_cwns,34096,pop_cwns
+3,256012,Scotts Valley WWTF Producer,NA,NA,NA,NA
+3,215915,Country Club Estates – SLO Co CSA-18,NA,NA,NA,NA
+3,227602,Gonzales WWTP,NA,NA,NA,NA
+3,230555,Hollister WWTP,1043,pop_cwns,1043,pop_cwns
+3,232363,Indian Springs Reclamation Facility,NA,NA,NA,NA
+3,235021,King City Domestic WWTF,NA,NA,NA,NA
+3,237149,Little Bear Water Co WWTP,NA,NA,NA,NA
+3,237312,Lompoc Correctional Facility,NA,NA,NA,NA
+3,240951,Mission Hills La Purisima WWTP,680,pop_cwns,680,pop_cwns
+3,847506,Monterey Vacations RV Park,NA,NA,NA,NA
+3,245581,Oak Shores Development CSA-7A,1387,pop_cwns,1387,pop_cwns
+3,251675,Rancho Larios,NA,NA,NA,NA
+3,251701,Rancho Paso MHP,797,pop_cwns,797,pop_cwns
+3,252486,Resthaven Mobile Home Park,NA,NA,NA,NA
+3,212430,Cabana Holiday MHP,137026,pop_cwns,137026,pop_cwns
+3,255306,San Jerardo WWTP,NA,NA,NA,NA
+3,255372,San Lucas WWTF,4091,pop_cwns,4091,pop_cwns
+3,255430,San Miguel SD WWTP,NA,NA,NA,NA
+3,272525,San Miguelito Wild Cherry Canyon WWTP,NA,NA,NA,NA
+3,258186,Spreckels Wastewater Treatment Plant,NA,NA,NA,NA
+3,266350,Tres Pinos WWTP,500,pop_sso_csv,500,pop_sso_csv
+4,242152,Malibu Gardens Condominiums,NA,NA,NA,NA
+4,806540,Glenview Mobile Home Park,NA,NA,NA,NA
+4,243533,Mountain View Alzheimer's Center,NA,NA,NA,NA
+4,249771,Paradise Ranch WWTP,104,pop_cwns,104,pop_cwns
+5,205259,Alpine Meadows/Whispering Wood,NA,NA,NA,NA
+5,209473,Bieber STP,NA,NA,NA,NA
+5,273164,Buttonwillow WWTF,1043,pop_cwns,1043,pop_cwns
+5,244250,City of Newman WWTF,104,pop_cwns,104,pop_cwns
+5,214671,City of Wheatland WWTP,104,pop_cwns,104,pop_cwns
+5,214812,Clearlake Oaks WWTP,104,pop_cwns,104,pop_cwns
+5,273110,Dinuba WWTF,104,pop_cwns,104,pop_cwns
+5,222916,Escalon Treatment Plant,NA,NA,NA,NA
+5,227485,Golden Feather MHP WTP,NA,NA,NA,NA
+5,229544,Hamilton City CSD WWTP,181,pop_cwns,181,pop_cwns
+5,232085,I'SOT School Ponds,NA,NA,NA,NA
+5,233460,Jamestown Sanitary District Wastewater Treatment Facilities,1043,pop_cwns,1043,pop_cwns
+5,235144,Knights Landing CSD WWTP,1043,pop_cwns,1043,pop_cwns
+5,273151,New Auberry WWTF,NA,NA,NA,NA
+5,256543,Shady Glen Mobile Home Park,NA,NA,NA,NA
+6,208572,Baker WTF,NA,NA,NA,NA
+6,224678,Floriston Waste Treatment Facility,NA,NA,NA,NA
+6,638757,Spalding Tract Sewer System,1043,pop_cwns,1043,pop_cwns
+6,272945,Woodfords Indian Colony WTDF,1043,pop_cwns,1043,pop_cwns
+6,210365,Bridgeport PUD Treatment Plant,NA,NA,NA,NA
+7,219671,SCSD Desert Shores WWTP,104,pop_cwns,104,pop_cwns
+7,647900,SCSD Thomas R. Cannell WWTP,1043,pop_cwns,1043,pop_cwns
+7,631113,Ironwood State Prison CS,3045,pop_served_via_rwb,3045,pop_served_via_rwb
+7,255119,Salton City Lansing Avenue WWTF,NA,NA,NA,NA
+9,245585,Oak Tree Ranch Private Residential Community OWTS,104,pop_cwns,104,pop_cwns
+9,271721,Warner Springs Mobile Estates,1043,pop_cwns,1043,pop_cwns

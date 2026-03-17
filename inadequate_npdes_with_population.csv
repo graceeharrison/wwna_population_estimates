@@ -1,0 +1,37 @@
+REGION,FACILITY ID,NPDES_ID,FACILITY NAME,pop_final,pop_final_source,pop_final_rwb_preferred,pop_final_rwb_preferred_source
+1,206164,CA0022713,Arcata City WWTF,17266,pop_cwns,17266,pop_cwns
+1,252750,CA0022748,Rio Dell City WWTF,2790,pop_cwns,2790,pop_cwns
+1,237295,CA0023671,Loleta WWTF,676,pop_cwns,676,pop_cwns
+1,215966,CA0023574,Covelo POTW,1080,pop_cwns,1080,pop_cwns
+1,784780,CA0006017,Scotia Town - City,NA,NA,NA,NA
+1,225089,CA0022730,Fortuna City WWTP,11638,pop_cwns,11638,pop_cwns
+1,268960,CA0022888,Ukiah City WWTP,21500,pop_sso_csv,21500,pop_sso_csv
+1,240318,CA0024040,Mendocino County WWD#2-Anchor Bay,95,pop_cwns,95,pop_cwns
+1,223010,CA0024449,Eureka City Elk River WWTP,41400,pop_cwns,41400,pop_cwns
+2,212750,CA0037966,Calistoga City Dunaweal WWTP,4981,pop_cwns,4981,pop_cwns
+2,258386,CA0038016,St. Helena City WWTP,NA,NA,NA,NA
+2,257754,CA0037800,Sonoma Valley County SD WWTP,913086,pop_cwns,913086,pop_cwns
+3,230132,CA0048941,Heritage Ranch WWTP,720,pop_cwns,720,pop_cwns
+3,255337,CA0047902,San Juan Bautista WWTP,74129,pop_cwns,74129,pop_cwns
+3,212681,CA0047856,California Men's Colony WWTP,30188,pop_cwns,30188,pop_cwns
+3,247750,CA0047953,Paso Robles WWTP,31037,pop_covid,31037,pop_covid
+4,266940,CA0056014,Tapia WRF,44449,pop_cwns,44449,pop_cwns
+5,219530,CA0081744,Delleker WWTP,7524,pop_cwns,7524,pop_cwns
+5,256627,CA0079511,Shasta Lake WWTF,441,pop_cwns,441,pop_cwns
+5,205325,CA0078921,Alturas Municipal WWTP,NA,NA,NA,NA
+5,252771,CA0079588,Beach Wastewater Treatment Facility,114190,pop_cwns,114190,pop_cwns
+9,257821,CA0108928,South Bay International WTP,NA,NA,NA,NA
+2,256695,CA0005789,Martinez Refining Company WWTP,NA,NA,NA,NA
+2,215234,CA0038539,West County Agency Outfall,NA,NA,NA,NA
+3,255380,CA0094224,San Luis Obispo WWTP,3413,pop_cwns,3413,pop_cwns
+3,237315,CA0048127,Lompoc City Regional Wastewater Reclamation Plant,59191,pop_sso_csv,59191,pop_sso_csv
+3,209484,CA0048267,Big Basin Redwoods SP WWTP,NA,NA,NA,NA
+5,273191,CA0080489,Stallion Springs WWTF,5490,pop_cwns,5490,pop_cwns
+5,219530,CA0081744,Delleker WWTP,7524,pop_cwns,7524,pop_cwns
+5,205325,CA0078921,Alturas Municipal WWTP,NA,NA,NA,NA
+5,215903,CA0081507,Cottonwood WWTP,82778,pop_cwns,82778,pop_cwns
+5,214199,CA0077747,Chester STP,3819,pop_cwns,3819,pop_cwns
+5,241800,CA0078051,Mount Shasta WWTP,441,pop_cwns,441,pop_cwns
+5,252771,CA0079588,Beach Wastewater Treatment Facility,114190,pop_cwns,114190,pop_cwns
+5,251217,NA,American Valley WWTP,20700,pop_cwns,20700,pop_cwns
+7,256217,CA0105023,Seeley CWD WWTP,15998,pop_cwns,2100,pop_served_via_rwb

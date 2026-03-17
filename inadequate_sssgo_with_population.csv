@@ -1,0 +1,161 @@
+REGION,WDID,FACILITY NAME,FACILITY ID,pop_final,pop_final_source,pop_final_rwb_preferred,pop_final_rwb_preferred_source
+1,1SSO10001,Arcata City CS,630338,19114,pop_served_via_rwb,19114,pop_served_via_rwb
+1,1SSO10021,Covelo City CS,630387,425,pop_served_via_rwb,425,pop_served_via_rwb
+1,1SSO10069,CSU Sonoma CS,630482,10000,pop_served_via_rwb,10000,pop_served_via_rwb
+1,1SSO10024,Dorris City CS,630390,938,pop_served_via_rwb,938,pop_served_via_rwb
+1,1SSO11467,Fort Bragg City CS,630379,7500,pop_served_via_rwb,7500,pop_served_via_rwb
+1,1SSO10031,Fortuna City CS,630403,12295,pop_served_via_rwb,12295,pop_served_via_rwb
+1,1SSO10036,Happy Camp SD CS,630416,927,pop_served_via_rwb,927,pop_served_via_rwb
+1,1SSO10037,Healdsburg City CS,630417,11340,pop_served_via_rwb,11340,pop_served_via_rwb
+1,1SSO11419,Humboldt CSD CS,645094,16667,pop_served_via_rwb,16667,pop_served_via_rwb
+1,1SSO11173,Humboldt State Univeristy CS,631092,12000,pop_served_via_rwb,12000,pop_served_via_rwb
+1,1SSO11475,Palmer Creek CSD CS,646217,367,pop_served_via_rwb,367,pop_served_via_rwb
+1,1SSO10055,Redway CS,630460,1150,pop_served_via_rwb,1150,pop_served_via_rwb
+1,1SSO10058,Rio Dell City CS,630463,3100,pop_served_via_rwb,3100,pop_served_via_rwb
+1,1SSO10067,SCWA Russian River CSD CS,630480,7305,pop_served_via_rwb,7305,pop_served_via_rwb
+1,1SSO11490,U.S. Coast Guard TRACEN CS,648006,1650,pop_served_via_rwb,1650,pop_served_via_rwb
+2,2SSO11610,Airport Industrial Wastewater CS,770699,NA,NA,NA,NA
+2,2SSO10087,Alameda City CS,630863,80000,pop_served_via_rwb,80000,pop_served_via_rwb
+2,2SSO10104,Ccsf - San Francisco Airport CS,631023,NA,NA,NA,NA
+2,2SSO10129,East Palo Alto Sanitary Dist. CS,630848,7155,pop_served_via_rwb,7155,pop_served_via_rwb
+2,2SSO10228,Fair Oaks SMD,752093,28816,pop_served_via_rwb,28816,pop_served_via_rwb
+2,2SSO10158,Mt. View SD CS,630944,21900,pop_served_via_rwb,21900,pop_served_via_rwb
+2,2SSO10159,Napa Sd CS,630948,77818,pop_served_via_rwb,77818,pop_served_via_rwb
+2,2SSO10162,Novato And Ignacio CS,630953,60000,pop_served_via_rwb,60000,pop_served_via_rwb
+2,2SSO11204,Oakland City CS,645344,425097,pop_served_via_rwb,425097,pop_served_via_rwb
+2,2SSO10165,Petaluma City CS,630961,64316,pop_served_via_rwb,64316,pop_served_via_rwb
+2,2SSO10170,Richmond City CS,630971,68280,pop_served_via_rwb,68280,pop_served_via_rwb
+2,2SSO10177,San Carlos City CS,630988,30000,pop_served_via_rwb,30000,pop_served_via_rwb
+2,2SSO10172,San Dist #1 of Marin CS,630976,47000,pop_served_via_rwb,47000,pop_served_via_rwb
+2,2SSO10193-C,San Francisco City Combined CS,867839,NA,NA,NA,NA
+2,2SSO10179,San Jose City CS,630994,1068520,pop_served_via_rwb,1068520,pop_served_via_rwb
+2,2SSO10183,San Mateo CIty CS,631006,104748,pop_served_via_rwb,104748,pop_served_via_rwb
+2,2SSO10184,San Rafael SD CS,631008,38000,pop_served_via_rwb,38000,pop_served_via_rwb
+2,2SSO10114,Sausalito City CS,630790,7037,pop_served_via_rwb,7037,pop_served_via_rwb
+2,2SSO11533,SLAC National Accelerator Laboratory CS,727334,NA,NA,NA,NA
+2,2SSO10196,Sonoma Valley County S.D. CS,631036,44706,pop_served_via_rwb,44706,pop_served_via_rwb
+2,2SSO10115,South San Francisco City CS,630795,67420,pop_served_via_rwb,67420,pop_served_via_rwb
+2,2SSO10142,Town Of Hillsborough CS,630900,11016,pop_served_via_rwb,11016,pop_served_via_rwb
+2,2SSO18110,Treasure Island Development Authority CS,818847,NA,NA,NA,NA
+2,2SSO10216,West County WW District CS,631679,100000,pop_served_via_rwb,100000,pop_served_via_rwb
+2,2SSO10218,Woodside CS,631682,500,pop_served_via_rwb,500,pop_served_via_rwb
+3,3SSO18092,Boronda Sanitation District CS,724874,1710,pop_served_via_rwb,1710,pop_served_via_rwb
+3,3SSO10244,Carmel Area Wastewater District Collection System,631879,11000,pop_served_via_rwb,11000,pop_served_via_rwb
+3,3SSO10265,El Estero CS,631960,95000,pop_served_via_rwb,95000,pop_served_via_rwb
+3,3SSO10250,Guadalupe City CS,631909,8546,pop_served_via_rwb,8546,pop_served_via_rwb
+3,3SSO11524,Monterey City CS,632060,30218,pop_served_via_rwb,30218,pop_served_via_rwb
+3,3SSO10293,Monterey Csa - Chualar CS,632057,1190,pop_served_via_rwb,1190,pop_served_via_rwb
+3,3SSO10305,Paso Robles CS,631705,30500,pop_served_via_rwb,30500,pop_served_via_rwb
+3,3SSO11422,Pebble Beach CSD CS,645126,4500,pop_served_via_rwb,4500,pop_served_via_rwb
+3,3SSO10308,Port San Luis Harbor District CS,631713,250,pop_served_via_rwb,250,pop_served_via_rwb
+3,3SSO10316,San Ardo CS,631739,529,pop_served_via_rwb,529,pop_served_via_rwb
+3,3SSO10317,San Juan Bautista CS,631744,1800,pop_served_via_rwb,1800,pop_served_via_rwb
+3,3SSO10320,San Luis Obispo CS,631748,45000,pop_served_via_rwb,45000,pop_served_via_rwb
+4,4SSO11388,County Sanitation District Joint Outfall CS,644312,4757320,pop_served_via_rwb,4757320,pop_served_via_rwb
+4,4SSO10351,CSU Polytechnic Pomona CS,631750,27500,pop_served_via_rwb,27500,pop_served_via_rwb
+4,4SSO10393,Huntington Park City CS,632001,54883,pop_served_via_rwb,54883,pop_served_via_rwb
+4,4SSO10450,Hyperion CS,631789,4624459,pop_served_via_rwb,4624459,pop_served_via_rwb
+4,4SSO10394,Industry City CS,632002,264,pop_served_via_rwb,264,pop_served_via_rwb
+4,4SSO10420,Rancho Palos Verdes City CS,631219,42893,pop_served_via_rwb,42893,pop_served_via_rwb
+4,4SSO10426,San Fernando City CS,631232,24585,pop_served_via_rwb,24585,pop_served_via_rwb
+4,4SSO10431,Santa Monica City CS,631318,93283,pop_served_via_rwb,93283,pop_served_via_rwb
+4,4SSO10432,Sierra Madre City CS,631323,11094,pop_served_via_rwb,11094,pop_served_via_rwb
+4,4SSO10491,Terminal Island CS,631858,199081,pop_served_via_rwb,199081,pop_served_via_rwb
+4,4SSO10449,Thousand Oaks Municipal Service Center,631788,130000,pop_served_via_rwb,130000,pop_served_via_rwb
+4,4SSO10445,US Department of Veteran Affairs CS,631784,5000,pop_served_via_rwb,5000,pop_served_via_rwb
+4,4SSO10442,West Covina CS,631781,111400,pop_served_via_rwb,111400,pop_served_via_rwb
+4,4SSO11368,West Hollywood CS,643371,37805,pop_served_via_rwb,37805,pop_served_via_rwb
+5,5SSO10865,Angels Camp CS,631422,4178,pop_served_via_rwb,4178,pop_served_via_rwb
+5,5SSO10869,Auburn Lk Trls Onsite WW Disp CS,631428,338,pop_served_via_rwb,338,pop_served_via_rwb
+5,5SSO10789,Biggs CS,631714,1800,pop_served_via_rwb,1800,pop_served_via_rwb
+5,5SSO10791,Burney CS,631720,3763,pop_served_via_rwb,3763,pop_served_via_rwb
+5,5SSO10719,"California State University, Bakersfield CS",631431,1600,pop_served_via_rwb,1600,pop_served_via_rwb
+5,5SSO11280,Chowchilla City CS,645091,11759,pop_served_via_rwb,11759,pop_served_via_rwb
+5,5SSO10893,City Of Folsom CS,631501,81610,pop_served_via_rwb,81610,pop_served_via_rwb
+5,5SSO10894,City Of Ione CS,631504,3999,pop_served_via_rwb,3999,pop_served_via_rwb
+5,5SSO10895,City Of Jackson CS,631507,4700,pop_served_via_rwb,4700,pop_served_via_rwb
+5,5SSO11433,City of Stockton MUD CS,645236,311178,pop_served_via_rwb,311178,pop_served_via_rwb
+5,5SSO11190,Corcoran State Prison CS,631109,3828,pop_served_via_rwb,3828,pop_served_via_rwb
+5,5SSO10731,Cutler P.U.D. CS,631494,6200,pop_served_via_rwb,6200,pop_served_via_rwb
+5,5SSO11223,Delano CS,710360,53000,pop_served_via_rwb,53000,pop_served_via_rwb
+5,5SSO10935,Dry Creek CS,630698,151901,pop_served_via_rwb,151901,pop_served_via_rwb
+5,5SSO10812,Dunsmuir CS,631245,2700,pop_served_via_rwb,2700,pop_served_via_rwb
+5,5SSO11226,Exeter CS,655404,11169,pop_served_via_rwb,11169,pop_served_via_rwb
+5,5SSO11227,Farmersville WWTP CS,651039,10971,pop_served_via_rwb,10971,pop_served_via_rwb
+5,5SSO11285,Firebaugh CS,657801,8328,pop_served_via_rwb,8328,pop_served_via_rwb
+5,5SSO11295,Fresno Co 31B-Shaver Lake CS,706799,1715,pop_served_via_rwb,1715,pop_served_via_rwb
+5,5SSO11228,Goshen CS,645277,3006,pop_served_via_rwb,3006,pop_served_via_rwb
+5,5SSO10820,Gridley CS,631262,6700,pop_served_via_rwb,6700,pop_served_via_rwb
+5,5SSO10965,Hangtown Creek CS,630751,10681,pop_served_via_rwb,10681,pop_served_via_rwb
+5,5SSO11302,Huron City CS,726589,7281,pop_served_via_rwb,7281,pop_served_via_rwb
+5,5SSO10971,Isleton CS,630765,945,pop_served_via_rwb,945,pop_served_via_rwb
+5,5SSO11234,Kettleman City WWTF CS,645127,1500,pop_served_via_rwb,1500,pop_served_via_rwb
+5,5SSO10976,Knights Landing CS,630780,1300,pop_served_via_rwb,1300,pop_served_via_rwb
+5,5SSO10984,Lake Wildwood CS,630809,7080,pop_served_via_rwb,7080,pop_served_via_rwb
+5,5SSO11306,Laton CSD CS,645096,1850,pop_served_via_rwb,1850,pop_served_via_rwb
+5,5SSO11235,Lemon Cove CS,716154,109,pop_served_via_rwb,109,pop_served_via_rwb
+5,5SSO11311,MD-22A Oakhurst CS,704518,2686,pop_served_via_rwb,2686,pop_served_via_rwb
+5,5SSO11002,Mokelumne Hill CS,630825,800,pop_served_via_rwb,800,pop_served_via_rwb
+5,5SSO11005,Mule Creek State Prison CS,630842,5000,pop_served_via_rwb,5000,pop_served_via_rwb
+5,5SSO11022,Penn Valley CS,630936,680,pop_served_via_rwb,680,pop_served_via_rwb
+5,5SSO11428,Pinedale Public Utility District CS,645141,6900,pop_served_via_rwb,6900,pop_served_via_rwb
+5,5SSO10845,Red Bluff CS,631310,14076,pop_served_via_rwb,14076,pop_served_via_rwb
+5,5SSO10801,Redding City CS,631120,95542,pop_served_via_rwb,95542,pop_served_via_rwb
+5,5SSO10912,Sacramento Area Sewer District CS,630675,1170000,pop_served_via_rwb,1170000,pop_served_via_rwb
+5,5SSO11342,Sanger CS,656284,25664,pop_served_via_rwb,25664,pop_served_via_rwb
+5,5SSO11028,SMD No. 1 CS,630958,13207,pop_served_via_rwb,13207,pop_served_via_rwb
+5,5SSO11055,Southeast Regional Waste Disp Fac CS,631027,13176,pop_served_via_rwb,13176,pop_served_via_rwb
+5,5SSO11061,Sutter Creek CS,631043,2501,pop_served_via_rwb,2501,pop_served_via_rwb
+5,5SSO11068,Tuolumne CS,631052,1577,pop_served_via_rwb,1577,pop_served_via_rwb
+5,5SSO10778,Wawona CS,631689,300,pop_served_via_rwb,300,pop_served_via_rwb
+5,5SSO10803,Willows CS,631122,5937,pop_served_via_rwb,5937,pop_served_via_rwb
+6,6SSO11128,Big Pine Indian Res CS,630806,NA,NA,NA,NA
+6,6SSO11150,Inyokern Csd CS,630876,979,pop_served_via_rwb,979,pop_served_via_rwb
+6,6SSO11109,Markleeville Wstwtr Trtmnt Sys CS,630744,69,pop_served_via_rwb,69,pop_served_via_rwb
+6,6SSO11110,North Tahoe Public Utility Dst CS,630747,10000,pop_served_via_rwb,10000,pop_served_via_rwb
+6,6SSO11538,Step/Stag System w/Evap Ponds CS,733023,2000,pop_served_via_rwb,2000,pop_served_via_rwb
+6,6SSO11120,Truckee Sanitary District CS,630785,17131,pop_served_via_rwb,17131,pop_served_via_rwb
+7,7SSO10515,Calexico CS,631178,40000,pop_served_via_rwb,40000,pop_served_via_rwb
+7,7SSO11189,Chuckawalla Valley State Prison CS,631108,2600,pop_served_via_rwb,2600,pop_served_via_rwb
+8,8SSO10543,Beaumont City CS,631243,55349,pop_served_via_rwb,55349,pop_served_via_rwb
+8,8SSO10566,Costa Mesa SD CS,256421,118300,pop_served_via_rwb,118300,pop_served_via_rwb
+8,8SSO10569,East Valley Water District CS,631527,104000,pop_served_via_rwb,104000,pop_served_via_rwb
+8,8SSO10617,Eastern Municipal Water District CS,256449,567615,pop_served_via_rwb,567615,pop_served_via_rwb
+8,8SSO11381,Herman G. Stark Youth Correctional Facility CS,643379,9,pop_served_via_rwb,9,pop_served_via_rwb
+8,8SSO10560,Riverside City CS,631503,327728,pop_served_via_rwb,327728,pop_served_via_rwb
+9,9SSO10647,City of Coronado CS,631933,20627,pop_served_via_rwb,20627,pop_served_via_rwb
+9,9SSO10653,City of Laguna Beach CS,631920,18000,pop_served_via_rwb,18000,pop_served_via_rwb
+9,9SSO10655,City of National City CS,631917,58967,pop_served_via_rwb,58967,pop_served_via_rwb
+9,9 000000762,County Of San Diego CS - multiple facilities,256442,NA,NA,NA,NA
+9,9SSO10678,Moulton Niguel Water District CS,631585,170236,pop_served_via_rwb,170236,pop_served_via_rwb
+9,9SSO10658,San Diego City CS (Wastewater Collection System),631631,2380000,pop_served_via_rwb,2380000,pop_served_via_rwb
+9,9SSO10707,Trabuco Canyon Water District CS,631386,12921,pop_served_via_rwb,12921,pop_served_via_rwb
+9,9SSO10710,"USMC Base, Camp Pendleton CS",256444,NA,NA,NA,NA
+9,9SSO10710,"USMC Base, Camp Pendleton CS",631390,NA,NA,NA,NA
+3,3SSO10250,Guadalupe City CS,631090,NA,NA,NA,NA
+5,5SSO10786,Beckwourth CS,631704,100,pop_served_via_rwb,100,pop_served_via_rwb
+5,5SSO10797,Chester CS,631740,2500,pop_served_via_rwb,2500,pop_served_via_rwb
+5,5SSO11219,City of Avenal CS,706791,14885,pop_served_via_rwb,14885,pop_served_via_rwb
+5,5SSO10971,Isleton CS,630765,945,pop_served_via_rwb,945,pop_served_via_rwb
+5,5SSO20058,East Orosi CSD CS,855903,NA,NA,NA,NA
+5,5SSO11007,Murphys CS,630868,2213,pop_served_via_rwb,2213,pop_served_via_rwb
+5,5SSO10753,Planada CSD CS,631573,4500,pop_served_via_rwb,4500,pop_served_via_rwb
+5,5SSO10843,Portola CS,631307,2104,pop_served_via_rwb,2104,pop_served_via_rwb
+5,5SSO11224,The City of Dinuba CS,645139,26731,pop_served_via_rwb,26731,pop_served_via_rwb
+5,5SSO10827,Lake Oroville Area PUD CS,631283,12000,pop_served_via_rwb,12000,pop_served_via_rwb
+5,5SSO11283,Delhi CWD CS,658077,8000,pop_served_via_rwb,8000,pop_served_via_rwb
+6,6SSO11108,Leavitt Lake Sew Trt Ponds CS,630741,950,pop_served_via_rwb,950,pop_served_via_rwb
+7,7SSO20054,Niland CS,631214,NA,NA,NA,NA
+7,7SSO10538,Salton City Oxid Basin CS,631227,4745,pop_served_via_rwb,4745,pop_served_via_rwb
+8,8SSO10580,Inland Empire Utilities Agency CS,631557,863000,pop_served_via_rwb,863000,pop_served_via_rwb
+8,8SSO10594,Rialto City CS,631572,104062,pop_served_via_rwb,104062,pop_served_via_rwb
+8,8SSO10591,Orange City CS,256413,137300,pop_served_via_rwb,137300,pop_served_via_rwb
+8,8SSO10587,Irvine Ranch Water Distric CS,256417,314792,pop_served_via_rwb,314792,pop_served_via_rwb
+8,8SSO10641,Yorba Linda Water District CS,256418,75000,pop_served_via_rwb,75000,pop_served_via_rwb
+8,8SSO10561,San Bernardino City CS,631508,207500,pop_served_via_rwb,207500,pop_served_via_rwb
+8,8SSO10614,San Bernardino Cnty Special Districts,631620,1466,pop_served_via_rwb,1466,pop_served_via_rwb
+8,8SSO11477,Fontana City CS,646700,219573,pop_served_via_rwb,219573,pop_served_via_rwb
+8,8SSO10582,Jurupa Community Service Dist.,631562,140147,pop_served_via_rwb,140147,pop_served_via_rwb
+8,8SSO10643,Yucaipa Valley Water District CS,631943,49000,pop_served_via_rwb,49000,pop_served_via_rwb
+8,8SSO10620,Elsinore Valley Municipal Water District,631633,133189,pop_served_via_rwb,133189,pop_served_via_rwb
+8,8SSO10585,Lake Hemet MWD CS,631564,50250,pop_served_via_rwb,50250,pop_served_via_rwb
